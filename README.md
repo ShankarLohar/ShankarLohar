@@ -16,15 +16,16 @@
 - Comming Soon... 🎉
 
 <p>
-  <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=ShankarLohar&count_private=true&show_icons=true&theme=dark" width="350"></a>
-  <a href="#"><img src="https://github-readme-streak-stats.herokuapp.com/?user=ShankarLohar&count_private=true&show_icons=true&theme=dark" width="350"></a>
+  <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=ShankarLohar&count_private=true&show_icons=true&theme=dark" width="400"></a>
+  <a href="#"><img src="https://github-readme-streak-stats.herokuapp.com/?user=ShankarLohar&count_private=true&show_icons=true&theme=dark" width="400"></a>
 </p>
 
 
 ## Programming Languages 🔠:
 
 <p>
-  <a href="#"><img src="https://img.shields.io/badge/C%2B%2B-red?style=for-the-badge&logo=c%2B%2B&logoColor=white" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/C-red?style=for-the-badge&logo=c&logoColor=white" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/C%2B%2B-darkred?style=for-the-badge&logo=c%2B%2B&logoColor=white" /></a>
 </p>
 
 ## Frameworks ⚙:
