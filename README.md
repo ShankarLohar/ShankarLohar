@@ -1,6 +1,6 @@
 # Hi there, I'm Shankar Lohar 👋 <!-- ![GitHub followers](https://img.shields.io/github/followers/ShankarLohar?color=green&logo=github&style=for-the-badge)  ![GitHub User's stars](https://img.shields.io/github/stars/ShankarLohar?color=green&logo=github&style=for-the-badge) -->
 
-## About Me 😋 !  ![visitors](https://visitor-badge.laobi.icu/badge?page_id=ShankarLohar)
+## About Me 😋 !  ![Years Badge](https://badges.pufler.dev/years/ShankarLohar)  ![visitors](https://visitor-badge.laobi.icu/badge?page_id=ShankarLohar)
 - 🎓 I am a AI & ML Student at VIT-Bhopal 
 
 - 🌱 I am currently learning everything
