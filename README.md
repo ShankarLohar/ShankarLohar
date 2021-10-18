@@ -9,7 +9,7 @@
 
 - 🐱‍💻 I like Competative Coding too... 
 
-[![Linkedin Follow](https://img.shields.io/badge/Check%20out%20my%20resume-grey?style=for-the-badge&logo=Linkedin&logoColor=blue)](https://www.linkedin.com/in/shankarlohar/)  [![Twitter Follow](https://img.shields.io/twitter/follow/shankarloharin?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fshankarloharin&screen_name=shankarloharin)
+[![Linkedin Follow](https://img.shields.io/badge/Check%20out%20my%20resume-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/shankarlohar/)  [![Twitter Follow](https://img.shields.io/twitter/follow/shankarloharin?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fshankarloharin&screen_name=shankarloharin)
 
 ## My Experiences 🤵  [![Gmail Badge](https://img.shields.io/badge/-shankarloharmail@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:shankarloharmail@gmail.com)](mailto:shankarloharmail@gmail.com)
 
