@@ -1,11 +1,11 @@
-# Hi there, I'm Shankar Lohar 👋 ![GitHub followers](https://img.shields.io/github/followers/ShankarLohar?color=green&logo=github&style=for-the-badge)  ![GitHub User's stars](https://img.shields.io/github/stars/ShankarLohar?color=green&logo=github&style=for-the-badge)
+# Hi there, I'm Shankar Lohar 👋 <!-- ![GitHub followers](https://img.shields.io/github/followers/ShankarLohar?color=green&logo=github&style=for-the-badge)  ![GitHub User's stars](https://img.shields.io/github/stars/ShankarLohar?color=green&logo=github&style=for-the-badge) -->
 
 ## About Me 😋 !  ![visitors](https://visitor-badge.laobi.icu/badge?page_id=ShankarLohar)
-- I'm a AI & ML Student at VIT-Bhopal 🎓
+- 🎓 I am a AI & ML Student at VIT-Bhopal 
 
-- 🌱 I’m currently learning everything 🤣
+- 🌱 I am currently learning everything
 
-- 💻 I am into Open Source contributions and learning to contribute 🤓
+- 💻 I am into Open Source contributions and learning to contribute
 
 - 🐱‍💻 I like Competative Coding too... 
 
