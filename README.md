@@ -16,8 +16,7 @@
 - Comming Soon... 🎉
 
 <p>
-  <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=ShankarLohar&count_private=true&show_icons=true&theme=dark" width="410"></a>
-  <a href="#"><img src="https://github-readme-streak-stats.herokuapp.com/?user=ShankarLohar&count_private=true&show_icons=true&theme=dark" width="410"></a>
+  <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=ShankarLohar&count_private=true&show_icons=true&theme=dark" width="420"></a> <a href="#"><img src="https://github-readme-streak-stats.herokuapp.com/?user=ShankarLohar&count_private=true&show_icons=true&theme=dark" width="420"></a>
 </p>
 
 
