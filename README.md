@@ -23,31 +23,31 @@
 
 ## Programming Languages 🔠:
 
-<p>
+<!-- <p>
   <a href="#"><img src="https://img.shields.io/badge/C-red?style=for-the-badge&logo=c&logoColor=white" /></a>
   <a href="#"><img src="https://img.shields.io/badge/C%2B%2B-darkred?style=for-the-badge&logo=c%2B%2B&logoColor=white" /></a>
   <a href="#"><img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" /></a>
   <a href="#"><img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen" /></a>
   <a href="#"><img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" /></a>
-</p>
+</p> -->
 
 ## Frameworks ⚙:
 
-<p>
+<!-- <p>
   <a href="#"><img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" /></a>
-</p>
+</p> -->
 
 ## Technology 🤖:
 
 
 ## Practice Profiles 🏅:
 
-[<img src="https://img.shields.io/badge/Codechef-%23B92B27.svg?&style=for-the-badge&logo=Codechef&logoColor=white" />](https://www.codechef.com/users/shankarlohar)
+<!-- [<img src="https://img.shields.io/badge/Codechef-%23B92B27.svg?&style=for-the-badge&logo=Codechef&logoColor=white" />](https://www.codechef.com/users/shankarlohar)
 [<img src="https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=Codeforces&logoColor=white" />](https://codeforces.com/profile/ShankarLohar)
 [<img src="https://img.shields.io/badge/HackerEarth-%232C3454.svg?&style=for-the-badge&logo=HackerEarth&logoColor=Blue" />](https://www.hackerearth.com/@shankarlohar)
 [<img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" />](https://www.hackerrank.com/shankarlohar)
 [<img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" />](https://leetcode.com/ShankarLohar/)
-
+ -->
 
 
 
