@@ -1,5 +1,5 @@
 # Hi there, I'm Shankar Lohar 👋 <!-- ![GitHub followers](https://img.shields.io/github/followers/ShankarLohar?color=green&logo=github&style=for-the-badge)  ![GitHub User's stars](https://img.shields.io/github/stars/ShankarLohar?color=green&logo=github&style=for-the-badge) -->
-
+<!-- <h1 align='center'><i>Hi there, I'm Shankar Lohar 👋!</i></h1> -->
 ## About Me 😋 !  ![Years Badge](https://badges.pufler.dev/years/ShankarLohar)  ![visitors](https://visitor-badge.laobi.icu/badge?page_id=ShankarLohar)
 - 🎓 I am a AI & ML Student at VIT-Bhopal 
 
@@ -23,7 +23,8 @@
 
 ## Programming Languages 🔠:
 <p>
-  <a href="#"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShankarLohar&count_private=true&show_icons=true&theme=dark" width="300"></a>
+  <a href="#"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShankarLohar&layout=compact&count_private=true&show_icons=true&theme=dark" width="300"</a>
+<!--     <a href="#"><img src="https://github-readme-stats.vercel.app/api/wakatime?username=ShankarLohar&layout=compact&count_private=true&show_icons=true&theme=dark" width="300"</a> -->
 </p>
 
 ## Frameworks ⚙:
