@@ -24,7 +24,7 @@
 ## Programming Languages 🔠:
 <p>
   <a href="#"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShankarLohar&layout=compact&count_private=true&show_icons=true&theme=dark" width="300"</a>
-<!--     <a href="#"><img src="https://github-readme-stats.vercel.app/api/wakatime?username=ShankarLohar&layout=compact&count_private=true&show_icons=true&theme=dark" width="300"</a> -->
+<!--     <a href="#"><img src="https://github-readme-stats.vercel.app/api/wakatime?username=shankarlohar&layout=compact&count_private=true&show_icons=true&theme=dark" width="300"</a> -->
 </p>
 
 ## Frameworks ⚙:
